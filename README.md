@@ -1,25 +1,14 @@
-<h1 align="center">👋 Hi, I'm Mukul Yadav! 🧑‍💻</h1>
+<h1 align="center" font>👋 Hi, I'm Mukul Yadav! 🧑‍💻</h1>
 
  <p align="center">
 Passionate about building web applications, solving programming problems, and learning new technologies
   </p>
   <br>
   <ul >
- <li>🌱 I’m currently learning:Web Development and DSA</li>
+ <li>🌱 I’m currently learning: Web Development and DSA</li>
  <li>⚡ Fun fact: When I’m not coding, you’ll likely find me at the gym or exploring the latest tech trends! </li>
  </ul>
 
-
-<h2 align="center"> 🌐 Socials: </h2>
-<p align="center"> 
- <a href="https://linkedin.com/in/rao-mukul" target="_blank">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height=40px/>
- </a>
-<a href="https://x.com/_rao_mukul" target="_blank">
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/X_icon_2.svg/900px-X_icon_2.svg.png?20231002152819" height=40px>
-</a>     
-
-</p>
 
 <h1 align="center"> 💻 Tech Stack: </h1>
 <div class="tech">
@@ -74,4 +63,18 @@ Passionate about building web applications, solving programming problems, and le
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rao-mukul&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rao-mukul&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+</div>
+
+<div align="left">
+<h2> 🌐 Socials: </h2>
+<p> 
+ <a href="https://linkedin.com/in/rao-mukul" target="_blank">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height=40px/>
+
+ </a>
+<a href="https://x.com/_rao_mukul" target="_blank">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/X_icon_2.svg/900px-X_icon_2.svg.png?20231002152819" height=40px>
+</a>     
+
+</p>
 </div>
