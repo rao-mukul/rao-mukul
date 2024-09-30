@@ -1,7 +1,3 @@
-![Header](./github-header-image.png)
-
-
-
 <h1 align="center" font>👋 Hi, I'm Mukul Yadav! 🧑‍💻</h1>
 
  <p align="center">
