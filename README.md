@@ -42,8 +42,8 @@ Passionate about building web applications, solving programming problems, and le
 <div align="center">
  
 # 📊 GitHub Stats:
- 
-![](https://github-readme-streak-stats.herokuapp.com/?user=rao-mukul&theme=github_dark&hide_border=false)<br/>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rao-mukul&theme=github-dark)](https://git.io/streak-stats)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rao-mukul&hide=jupyter%20notebook&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
