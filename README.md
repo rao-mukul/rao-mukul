@@ -44,6 +44,7 @@ Passionate about building web applications, solving programming problems, and le
 # 📊 GitHub Stats:
 
 [![GitHub Streak](https://streak-stats-ashen.vercel.app?user=rao-mukul&theme=github-dark)](https://git.io/streak-stats)
+[![Github Activity Graph](https://activity-graph.vercel.app//graph?username=rao-mukul&custom_title=My%20Activity%20Graph%20&hide_border=true&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br/><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rao-mukul&hide=jupyter%20notebook&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
